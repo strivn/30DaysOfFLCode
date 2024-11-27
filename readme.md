@@ -7,12 +7,15 @@ https://30daysofflcode.com
 ## First Week
 - Day 1: Introduction to Federated Learning Part 1
 - Day 2: Introduction to Federated Learning Part 2 
-- Day 3: Introduction to Federated Learning Part 3
-- Day 4: Challenges, Open Problems in FL
-- Day 5: FL from Scratch Part 1 / Opacus
-- Day 6: FL from Scratch Part 2 / Opacus
-- Day 7: FL from Scratch Part 3
+- Day 3: Casual Hackathon 
+- Day 4: Introduction to Federated Learning Part 3
+- Day 5: SyftBox Apple Health Part 1 (POC)
+- Day 6: SyftBox Apple Health Part 2 (Member)
+- Day 7: SyftBox Apple Health Part 3 (Aggregator)
 
 ## Second Week
-- Day 8: Homomorphic Encryption
-- Day 9: 
+- Day 8: SyftBox Apple Health Part 4 (Aggregator) with FHE
+- Day 9: Reading: Challenges, Open Problems in FL, https://learn.deeplearning.ai/courses/intro-to-federated-learning/lesson/1/undefined 
+- Day 10: FL in Practice / Opacus
+- Day 11: FL in Practice / Opacus
+- Day 12: 
