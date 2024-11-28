@@ -14,8 +14,8 @@ https://30daysofflcode.com
 - Day 7: SyftBox Apple Health Part 3 (Aggregator)
 
 ## Second Week
-- Day 8: SyftBox Apple Health Part 4 (Aggregator) with FHE
-- Day 9: Reading: Challenges, Open Problems in FL, https://learn.deeplearning.ai/courses/intro-to-federated-learning/lesson/1/undefined 
+- Day 8:  Reading: Challenges, Open Problems in FL, https://learn.deeplearning.ai/courses/intro-to-federated-learning/lesson/1/undefined 
+- Day 9: SyftBox Apple Health Part 4 (Aggregator) with FHE
 - Day 10: FL in Practice / Opacus
 - Day 11: FL in Practice / Opacus
 - Day 12: 
