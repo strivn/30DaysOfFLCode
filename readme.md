@@ -47,7 +47,7 @@ Discover more on www.30DaysOfFLCode.com.
 - Day 25: Private Set Intersection - Diffie Hellman and Paillier
 - Day 26: Private Set Interesction - OT and OPRF
 - Day 27: SMPC - Additive, Shamir's, and SPDZ
-- Day 28:
+- Day 28: 
 
 ## Fifth Week
 - Day 29:
