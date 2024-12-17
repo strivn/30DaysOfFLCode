@@ -24,7 +24,7 @@ Discover more on www.30DaysOfFLCode.com.
 
 ## Second Week
 - Day 8:  Reading: Challenges, Open Problems in FL, [Intro to Federated Learning by deeplearning.ai and Flower](https://learn.deeplearning.ai/courses/intro-to-federated-learning/lesson/)
-- Day 9: Reading: Challenges, Open Problems in FL, [Intro to Federated Learning by deeplearning.ai and Flower](https://learn.deeplearning.ai/courses/intro-to-federated-learning/lesson/)
+- Day 9: Reading: Challenges, Open Problems in FL, [Intro to Federated Learning by deeplearning.ai and Flower](https://learn.deeplearning.ai/courses/intro-to-federated-learning/lesson/); also: Zero Knowledge Proofs
 - Day 10: [Intro to Federated Learning by deeplearning.ai and Flower](https://learn.deeplearning.ai/courses/intro-to-federated-learning/lesson/), [Federated Fine-tuning of LLMs with Private Data](https://learn.deeplearning.ai/courses/intro-to-federated-learning-c2/lesson/1/undefined)
 - Day 11: Perplexity [Federated Fine-tuning of LLMs with Private Data](https://learn.deeplearning.ai/courses/intro-to-federated-learning-c2/lesson/1/undefined)
 - Day 12: LLM Centralized and Federated Fine Tuning [Federated Fine-tuning of LLMs with Private Data](https://learn.deeplearning.ai/courses/intro-to-federated-learning-c2/lesson/1/undefined)
@@ -44,9 +44,9 @@ Discover more on www.30DaysOfFLCode.com.
 - Day 22: Revisiting Apple Health Steps Counter & Updates (but scrapped)
 - Day 23: Fully Homomorphic Encryption (FHE) Machine Learning using Concrete ML & Scikit Learn
 - Day 24: FHE Machine Learning using Concrete ML & Torch 
-- Day 25:
-- Day 26:
-- Day 27:
+- Day 25: Private Set Intersection - Diffie Hellman and Paillier
+- Day 26: Private Set Interesction - OT and OPRF
+- Day 27: SMPC - Additive, Shamir's, and SPDZ
 - Day 28:
 
 ## Fifth Week

@@ -1,6 +1,6 @@
-[submodule "day6/health_steps_counter_member"]
-	path = day6/health_steps_counter_member
+[submodule "day06/health_steps_counter_member"]
+	path = day06/health_steps_counter_member
 	url = https://github.com/strivn/health_steps_counter_member
-[submodule "day7/health_steps_counter_aggregator"]
-	path = day7/health_steps_counter_aggregator
-	url = https://github.com/strivn/health_steps_counter_aggregator.git
+[submodule "day07/health_steps_counter_aggregator"]
+	path = day07/health_steps_counter_aggregator
+	url = https://github.com/strivn/health_steps_counter_aggregator
