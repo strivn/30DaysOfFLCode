@@ -47,8 +47,8 @@ Discover more on www.30DaysOfFLCode.com.
 - Day 25: Private Set Intersection - Diffie Hellman and Paillier
 - Day 26: Private Set Interesction - OT and OPRF
 - Day 27: SMPC - Additive, Shamir's, and SPDZ
-- Day 28: 
+- Day 28: FL Secure Aggregation
 
 ## Fifth Week
-- Day 29:
-- Day 30:
+- Day 29: Confidential Computing
+- Day 30: Recap and Reflection - Structured Transparency
